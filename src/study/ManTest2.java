@@ -1,3 +1,5 @@
+package study;
+
 public class ManTest2 {
     public static void main(String[] args) {
         //상속 관계에서 생성자를 호출하면

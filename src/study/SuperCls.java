@@ -1,3 +1,5 @@
+package study;
+
 public class SuperCls {
     public SuperCls(){
         System.out.println("생성자1");

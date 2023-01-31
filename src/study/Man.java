@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package study;
 
 public class Man {
     String name;

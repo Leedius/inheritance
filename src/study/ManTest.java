@@ -1,3 +1,5 @@
+package study;
+
 public class ManTest {
     public static void main(String[] args) {
         BusinessMan m1 = new BusinessMan();
