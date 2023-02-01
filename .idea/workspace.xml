@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61509b23-1941-4ae1-bd06-f0eef23268f2" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/ex4/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex4/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex5/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex5/CakeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex6/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex6/OverRiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex7/AnimalManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/ex7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/ComFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/Friend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/HobbyFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/ManagerUpgrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/network_management/UniFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/Equals1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/EqualsTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/Object1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/ObjectTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/ObjectTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/object/ToStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example/Ex4/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example/Ex4/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex1/Aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex2/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/ManTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex2/ManTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/ManTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex2/ManTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/SubCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex3/SubCls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/SuperCls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex3/SuperCls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/SuperSubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/ex3/SuperSubTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,11 +71,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675152690560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1675233757444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675233757444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first update" />
-    <option name="LAST_COMMIT_MESSAGE" value="first update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
