@@ -1,4 +1,4 @@
-package study;
+package study.ex2;
 
 public class ManTest2 {
     public static void main(String[] args) {

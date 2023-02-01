@@ -1,4 +1,4 @@
-package study;
+package study.ex3;
 
 public class SuperCls {
     public SuperCls(){

@@ -1,4 +1,4 @@
-package study;
+package study.ex3;
 
 public class SubCls extends SuperCls {
 //    자동으로 만들어지는 생성자

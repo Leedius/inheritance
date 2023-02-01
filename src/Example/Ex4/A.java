@@ -1,7 +1,5 @@
 package Example.Ex4;
 
-import study.Aaa;
-
 public class A {
     private int x;
     private int y;

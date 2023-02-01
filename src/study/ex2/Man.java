@@ -1,4 +1,4 @@
-package study;
+package study.ex2;
 
 public class Man {
     String name;
